@@ -306,6 +306,10 @@ border-radius: 50%;
     }
  .sidebar
  {
-     width: 100%;
+     width: 80%;
+ }
+ .show-btn
+ {
+     left:2px;
  }   
 }
