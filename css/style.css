@@ -55,7 +55,7 @@
     left: 0;
     border: 1px solid black;
     width: 25%;
-    height: 100vh;
+    height: 100%;
     left: -100%;
     transition: 1s;
     /* display: none; */
