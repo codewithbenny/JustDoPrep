@@ -299,8 +299,13 @@ border-radius: 50%;
 }
 @media screen and (max-width:700px)
 {
+    .body
+    {
+        overflow: hidden;
+        width: 100%;
+    }
  .sidebar
  {
-     width: 50%;
+     width: 100%;
  }   
 }
